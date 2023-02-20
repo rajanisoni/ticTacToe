@@ -1,0 +1,38 @@
+.reset-btn {
+  background: rgb(118, 26, 198);
+  background: linear-gradient(
+    90deg,
+    rgba(118, 26, 198, 1) 4%,
+    rgba(129, 230, 56, 1) 100%
+  );
+  color: whitesmoke;
+  border: none;
+  padding: 1rem 1.5rem;
+  border-radius: 10%;
+  box-shadow: 0px 0px 8px #888;
+  font-family: 'Fredoka One', cursive;
+  font-size: 1.3em;
+  text-align: center;
+  text-shadow: 0px 0px 8px #888;
+  letter-spacing: 1px;
+  
+}
+
+.btn-Div {
+  margin: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.message{
+  background: #74CF46;
+background: linear-gradient(to right, #74CF46 37%, #9378FF 66%, #B7DF2D 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+font-size: 1.5rem;
+/* text-shadow: 0px 0px 1px #888; */
+
+
+
+}
